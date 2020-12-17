@@ -6,7 +6,7 @@ Para realizar a visualização do mesmo, basta seguir as instruções abaixo:
 Abra o terminal do seu computador, e clone o repositório do projeto:
 >> git clone https://github.com/luanSaid/analog-clocker-js.git
 
-Se preferir, pode também reaizar o download do código do projeto direto no botão.
+Se preferir, pode também reaizar o download do código do projeto direto no botão "Code".
 
 Após esse procedimento, basta abrir a pasta no qual o projeto foi clonado, sob o arquivo "index.html" clicar em "Abrir com" e selecione o navegador de sua preferência.
 
